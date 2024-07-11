@@ -1,0 +1,24 @@
+[{
+ "type": "START",
+ "id": "ABC123",
+ "timestamp": "1681722000",
+ "comments": "No issues - brand new and shiny!"
+},
+{
+ "type": "END",
+ "id": "ABC123",
+ "timestamp": "1681743600",
+ "comments": "Car is missing both front wheels!"
+},
+{
+ "type": "START",
+ "id": "ABC456",
+ "timestamp": "1680343200",
+ "comments": "Small dent on passenger door"
+},
+{
+ "type": "END",
+ "id": "1680382800",
+ "timestamp": "0123499",
+ "comments": ""
+}]
